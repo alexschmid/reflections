@@ -1,0 +1,7 @@
+**What happens when you initialize a repository? Why do you need to do it?**
+
+A `.git` repository is created. To allow Git to track changes to a repository's files.
+
+**How is the staging area different from the working directory and the repository? What value do you think it offers?** 
+
+The staging area is for nomimnating files for any given commit. It allows you to track only files you intend to have tracked.
